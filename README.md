@@ -88,7 +88,7 @@ You may use any programming language; place your implementation code under src/.
    - GitHub repo with: code, `requirements.txt`, `README.md`.  
    - One-page PDF summarizing approach, results, and next steps.
 
-## 📋 Notes
+## Notes
 
 - **Language**: you may use any language; ensure your README has the exact build/run steps.  
 - **Embeddings**: persist them on disk (`.npy`, `.json`, or in a vector DB) so indexing can be repeated without re-embedding.
