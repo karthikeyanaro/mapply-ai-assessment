@@ -93,4 +93,6 @@ You may use any programming language; place your implementation code under src/.
 - **Language**: you may use any language; ensure your README has the exact build/run steps.  
 - **Embeddings**: persist them on disk (`.npy`, `.json`, or in a vector DB) so indexing can be repeated without re-embedding.
 
+## Be sure to save your repo as YOUR_LAST_NAME-mapply-ai-assessment
+
 Good luck!  
